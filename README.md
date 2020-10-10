@@ -1,6 +1,6 @@
 ### Hi there, I am Maciek 👋
 
-![page views](https://komarev.com/ghpvc/?username=maciekglowacki&color=brightgreen)
+[![HitCount](http://hits.dwyl.com/maciekglowacki/maciekglowacki.svg)](http://hits.dwyl.com/maciekglowacki/maciekglowacki)
 
 #### I'm a Frontend Developer working in Poznan, Poland.
 
