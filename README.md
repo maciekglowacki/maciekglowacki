@@ -1,6 +1,6 @@
 ### Hi there, I am Maciek 👋
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+![page views](https://komarev.com/ghpvc/?username=maciekglowacki&color=brightgreen)
 
 #### I'm a Frontend Developer working in Poznan, Poland.
 
