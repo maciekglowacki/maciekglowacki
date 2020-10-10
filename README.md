@@ -11,7 +11,7 @@
 - 📝 [Resume](https://github.com/maciekglowacki/maciekglowacki/blob/master/CV-Maciej-Glowacki.pdf)
 - ⚡️ Fun fact: My dog has heterochromia 🐶
 
-📫 [email](mailto:glowackimaciej97@gmail.com)**|**
+📫 [email](mailto:glowackimaciej97@gmail.com) | 
 🐦 [twitter][twitter] **|** 
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
