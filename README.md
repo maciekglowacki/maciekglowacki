@@ -1,4 +1,4 @@
-### Hi there, I am Maciek 🙋‍♂️
+### Hi there, I am Maciek  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"></h2>
 
 ![page views](https://komarev.com/ghpvc/?username=maciekglowacki&color=brightgreen)
 
