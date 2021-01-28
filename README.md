@@ -54,3 +54,7 @@
 4. 🗣 Commented on [#267](https://github.com/LibreDWG/libredwg/issues/267) in [LibreDWG/libredwg](https://github.com/LibreDWG/libredwg)
 <!--END_SECTION:activity-->
 
+---- 
+
+[![Spotify](https:/novatorem.maciekglowacki.vercel.app/api/spotify)](https://open.spotify.com/user/maciekglowacki)
+
