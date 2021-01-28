@@ -56,5 +56,5 @@
 
 ---- 
 
-[![Spotify](https:/novatorem.maciekglowacki.vercel.app/api/spotify)](https://open.spotify.com/user/maciekglowacki)
+[![Spotify](https://novatorem.maciekglowacki.vercel.app/api/spotify)](https://open.spotify.com/user/maciekglowacki)
 
