@@ -2,9 +2,9 @@
 
 ![page views](https://komarev.com/ghpvc/?username=maciekglowacki&color=brightgreen)
 
-#### I'm a Frontend Developer working in Paris, France.
+#### I'm a Frontend Developer working in Warsaw, Poland.
 
-- 🏢 I'm currently working at **Mlabs**
+- 🏢 I'm currently working at **Besedo**
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the **Typescript/React Community**
 - 🌱 Learning all about functional programming 👨‍💻 and rust language🦀  
