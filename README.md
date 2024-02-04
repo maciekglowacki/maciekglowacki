@@ -8,20 +8,18 @@
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the **Typescript/React Community**
 - 🌱 Learning all about functional programming 👨‍💻 and rust language🦀  
-- 📝 [Resume](https://github.com/maciekglowacki/maciekglowacki/blob/master/CV-Maciej-Glowacki.pdf)
+- 📝 [Resume](https://github.com/maciekglowacki/maciekglowacki/blob/master/CV-English-Maciej-Glowacki-up-to-date.pdf)
 - ⚡️ Fun fact: My dog has heterochromia 🐶
 
 📫 [email](mailto:glowackimaciej97@gmail.com) | 
 🐦 [twitter][twitter] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] **|**
 🥋 [codewars][codewars] 
 
 [twitter]: https://twitter.com/glowackimaciej1
-[instagram]: https://www.instagram.com/maciek_soprano
+[instagram]: https://www.instagram.com/maciek.gif
 [linkedin]: https://www.linkedin.com/in/maciej-g%C5%82owacki-18899713b/
-[npm]: needtobeadded.com
 [codewars]: https://www.codewars.com/users/maciekglowacki
 
 ---- 
