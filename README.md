@@ -39,7 +39,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
 ---- 
 
-![Maciek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciekglowacki&show_icons=true)
 
 ---- 
 
