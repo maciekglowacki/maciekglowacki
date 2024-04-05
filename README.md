@@ -8,7 +8,7 @@
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the **Typescript/React Community**
 - 🌱 Learning all about functional programming 👨‍💻 and rust language🦀  
-- 📝 [Resume](https://github.com/maciekglowacki/maciekglowacki/blob/master/CV-English-Maciej-Glowacki-up-to-date.pdf)
+- 📝 [Resume](https://github.com/maciekglowacki/maciekglowacki/blob/master/resume-maciej-glowacki.pdf)
 - ⚡️ Fun fact: My dog has heterochromia 🐶
 
 📫 [email](mailto:glowackimaciej97@gmail.com) | 
