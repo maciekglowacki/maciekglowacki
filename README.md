@@ -4,7 +4,7 @@
 
 #### I'm a Frontend Developer working in Warsaw, Poland.
 
-- 🏢 I'm currently working at **Besedo**
+- 🏢 I'm currently working at **SynergyAI**
 - ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the **Typescript/React Community**
 - 🌱 Learning all about functional programming 👨‍💻 and rust language🦀  
